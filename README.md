@@ -45,6 +45,6 @@ public class Attributes extends Mikvlw {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,jenkins,git,selenium,docker,mongo,maven,postgres,rabbitmq,linux" />
+    <img src="https://skillicons.dev/icons?i=java,idea,jenkins,selenium,linux,docker,postgres,mongo,rabbitmq" />
   </a>
 </p>
