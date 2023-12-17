@@ -1,10 +1,10 @@
-<h2 align="center">About Me </h2>
+<h2 align="center">About Me</h2>
 
 ```java
 import java.util.Map;
 
-public class Mikvlw<T> {
-    private T me;
+public class Mikvlw {
+    private Object me;
 }
 
 public class Attributes extends Mikvlw {
