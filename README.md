@@ -17,14 +17,6 @@ public class Attributes extends Mikvlw {
         return new Tuple<>(discord, telegram, email);
     }
 
-    public Tuple<String[], String, Integer> life() {
-        String[] hobbies = {"Travel", "Games", "Code", "Tech"};
-        String city = "St. Petersburg";
-        int age = 29;
-
-        return new Tuple<>(hobbies, city, age);
-    }
-
     public Tuple<String[], Map<String, String[]>, String[], String[]> coding() {
         Map<String, String[]> libs = Map.of(
                 "testing", new String[] {"testng, junit5, rest-assured, selenide, assertj, hamcrest", "allure"},
