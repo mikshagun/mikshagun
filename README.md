@@ -22,7 +22,7 @@ public class Attributes extends Mikvlw {
                 "testing", new String[] {"testng, junit5, rest-assured, selenide, assertj, hamcrest", "allure"},
                 "arch", new String[] {"lombok", "postgresql", "jackson", "javax", "mongodb", "rabbitmq", "slf4j"},
                 "build", new String[] {"maven", "gradle"},
-                "other", new String[] {"wiremock"}
+                "other", new String[] {"wiremock", "jpa", "spring"}
         );
 
         String[] langs = {"java"};
