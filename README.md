@@ -11,7 +11,7 @@ public class Attributes extends Mikvlw {
 
     public Tuple<String, String, String> contact() {
         String discord = "m1kvlw";
-        String telegram = "t.me/mikvlw";
+        String telegram = "t.me/m1kvlw";
         String email = "ishagunmv@yandex.com";
 
         return new Tuple<>(discord, telegram, email);
