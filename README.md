@@ -10,9 +10,9 @@ public class Mikvlw {
 public class Attributes extends Mikvlw {
 
     public Tuple<String, String, String> contact() {
-        String discord = "m1kvlw";
-        String telegram = "t.me/m1kvlw";
-        String email = "ishagunmv@yandex.com";
+        String discord = "mshagun";
+        String telegram = "t.me/mshagun";
+        String email = "mshagun@java-qa.ru";
 
         return new Tuple<>(discord, telegram, email);
     }
